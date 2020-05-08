@@ -1,0 +1,2 @@
+name = "PANDAMAN"
+puts name
